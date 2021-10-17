@@ -1,0 +1,4 @@
+efficientnet-pytorch==0.7.0
+torch==1.7.1
+torchvision==0.8.2
+-e git+https://github.com/binhnd102/pytorch-gradual-warmup-lr.git
